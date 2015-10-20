@@ -1,0 +1,17 @@
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\bin\Debug\CheckEmail.exe
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\bin\Debug\CheckEmail.pdb
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.Form1.resources
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.Properties.Resources.resources
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.exe
+C:\Users\Rita\Documents\C#\Code\trunk\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.pdb
+C:\Users\20002296\Desktop\C#\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.exe
+C:\Users\20002296\Desktop\C#\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.pdb
+C:\Users\20002296\Desktop\C#\boekcode\h17\CheckEmail\bin\Debug\CheckEmail.exe
+C:\Users\20002296\Desktop\C#\boekcode\h17\CheckEmail\bin\Debug\CheckEmail.pdb
+C:\Users\20002296\Desktop\C#\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.csprojResolveAssemblyReference.cache
+C:\Users\20002296\Desktop\C#\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.Form1.resources
+C:\Users\20002296\Desktop\C#\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.Properties.Resources.resources
+C:\Users\20002296\Desktop\C#\boekcode\h17\CheckEmail\obj\x86\Debug\CheckEmail.csproj.GenerateResource.Cache

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/programmeren_in_csharp/!svn/ver/51/trunk/boekcode/h17/CheckEmail
+END
+CheckEmail.sln
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/programmeren_in_csharp/!svn/ver/16/trunk/boekcode/h17/CheckEmail/CheckEmail.sln
+END
+InvalidEmailException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/programmeren_in_csharp/!svn/ver/16/trunk/boekcode/h17/CheckEmail/InvalidEmailException.cs
+END
+CheckEmail.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/programmeren_in_csharp/!svn/ver/39/trunk/boekcode/h17/CheckEmail/CheckEmail.csproj
+END
+Form1.resx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/programmeren_in_csharp/!svn/ver/51/trunk/boekcode/h17/CheckEmail/Form1.resx
+END
+Form1.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/programmeren_in_csharp/!svn/ver/39/trunk/boekcode/h17/CheckEmail/Form1.Designer.cs
+END
+Form1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/programmeren_in_csharp/!svn/ver/39/trunk/boekcode/h17/CheckEmail/Form1.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/programmeren_in_csharp/!svn/ver/16/trunk/boekcode/h17/CheckEmail/Program.cs
+END
